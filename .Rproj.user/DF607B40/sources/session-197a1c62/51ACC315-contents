@@ -1,0 +1,195 @@
+---
+title: "Discussing <br>  *You Get What You Pay For: Electricity Quality and Firm Response* by [Meera Mahadevan](https://sites.google.com/view/meeram/home)"
+author: "<br> [Florian Oswald](https://floswald.github.io/)"
+date: "23 June 2023"
+date-format: "D MMMM, YYYY"
+institute: "Firms, Labour Markets, and Development workshop, Colegio Carlo Alberto"
+format: 
+  revealjs:
+    theme: _extensions/metropolis-theme/metropolis.scss
+    chalkboard: true
+    logo: images/ScPo-logo.png
+    footer: "[FLMD workshop 2023](https://www.carloalberto.org/event/firms-labor-markets-and-development-workshop/) @ [CCA](https://www.carloalberto.org/), discussant [Florian Oswald, SciencesPo Paris](https://floswald.github.io/)"
+    incremental: false
+    code-line-numbers: false
+    highlight-style: github  
+    slide-number: true
+    pdf-separate-fragments: true
+editor: visual
+bibliography: refs.bib
+---
+
+# Overview and Findings of the Paper
+
+------------------------------------------------------------------------
+
+## Overview
+
+::: {.fragment .fade-in-then-semi-out}
+1.  Electricity is a core input both in developing and developed economies.
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+2. Electricity in India is supplied very unreliably, severly curtailing economic growth.
+:::
+
+. . .
+
+### This Paper
+
+::: {.fragment .fade-in-then-semi-out}
+1.  Uses the staggered introduction of a large reform of the electricity generation and distribution market (all state-owned (?)) to identify effects of different reform types. State of the art DiD and event study methodology employed. 👏
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+2.  Finds that states who unified distribution network increased electricity reliability. Both prices and consumption increase - high WTP of firms for more reliable electricity!
+:::
+
+------------------------------------------------------------------------
+
+## Findings
+
+::: fragment
+- Increased competition in power distribution does not unequivocally lead to more stable supply and lower prices. Context matters.  
+:::
+
+::: fragment
+-   Electricity price increased significantly with single distributor.
+:::
+
+::: fragment
+-   The probability of using a generator increases significantly *as well* in single distributor states. 
+:::
+
+::: fragment
+-   Days worked and total output increase markedly in single distributor states, suggesting that firms are able to scale up operations significantly on the back of stable baseline supply.
+:::
+
+
+# Comments
+
+I have three short comments.
+
+-----
+
+
+## Comment 1: Pre-trend in Light Density?
+
+::: {.columns}
+
+::: {.column width=40%}
+* Is the black line trending up?
+* Does it matter?
+* What does it mean? (What's the unit on y-axis?)
+
+:::
+
+::: {.column width=55%}
+![](images/pre-trend.png)
+
+:::
+
+:::
+
+* 🤔 I'm often unsure of what the relevant control group is in settings like this, so please point out.
+---
+
+## Comment 2: Suggesting some clarifying edits
+
+<br>
+
+1. Why exactly is electricity unreliable? Problem of generators, or distributors, or both? Clearly spelling out the details would help the reader understand the issues at hand.
+
+<br>
+
+2. Table 1: *220 manufacturing days on average.* 5 days x 48 weeks would be 240 days. Why so few days? I guess unstable power supply is a reason, and indeed part of the story, so some highlighting of this in the text would be good.
+
+----
+
+
+## Comment 3: What Do We Recommend To Do?
+
+
+* What is the relationship between large scale infrastructure investments (i.e. big up-front expenditures) and the flow of revenue from consumers when it comes to assuring stable electricity supply? 
+
+. . .
+
+
+* Couldn't the central government make a big investment into upgrading existing infrastructure with debt financing (say), and rely on consumer subscriptions to pay for (smaller) operating costs?
+
+
+. . .
+
+* There is a link to other network-based utilities like rail (UK and France, for instance), where central government did the bulk of large initial investment.
+
+# This time is different? Irrigation in France 1700-1860.
+
+@rosenthal, *The Development of Irrigation in Provence, 1700-1860: The French Revolution and Economic Growth.*
+
+-------------------------
+
+
+## Irrigation channels in 18-th century France
+
+::: {.fragment}
+
+* @rosenthal shows that France throughout 1700-1860 had insufficient irrigation the *Provence* region, holding back growth (main sector: agriculture). TFP loss of up to 40%.
+
+:::
+
+::: {.fragment}
+
+* Resulting growth problem similar to @fried, just substitute `water` for `electricity`.
+
+:::
+
+::: {.fragment}
+
+* Technology and credit were available to private entrepreneurs.
+
+:::
+
+::: {.fragment}
+
+* Many canal projects failed because of *rent extraction downstream along the distribution network*.
+
+:::
+
+::: {.fragment}
+
+* Only after the **French Revolution** this problem disappeared.
+
+:::
+
+----
+
+## Downstream Rent Extraction in Provence
+
+<br>
+
+
+![@rosenthal p. 625](images/rosenthal1.png)
+---
+
+## Downstream Rent Extraction in Provence
+
+![@rosenthal p. 625](images/rosenthal2.png)
+
+---
+
+## Parallels to @rosenthal?
+
+* Of course electricity market in India 2023 is significantly different from irrigation water distribution in France in 1700. So, yes, *this time is different* 😉
+* Both settings, however, highlight the detrimental role inefficient distribution of inputs has on productivity.
+* Potential solutions in both settings have to do with *property rights*, or market segmentation in the widest sense. *More competition* will not work in both cases, without caveats.
+* In India it seems to be crucial to allow a distributor to reach a certain size in order to be efficient. In Provence the French Revolution meant that right-of-way was completely centralized, to the benefit of infrastructure projects.
+
+# End
+
+Thanks for this nice paper!
+
+---
+
+## References
+
+
